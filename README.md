@@ -6,7 +6,7 @@ Save it on a sticky note! This React app allows the user to add, edit, delete, a
 
 ### View My Project: [https://6hrkeg.csb.app/](https://6hrkeg.csb.app/) 
 
-![Screenshot](img/smartmockups_snui.jpg)
+![Screenshot](img/smartmockups_snui.png)
 
 ## Features
 
